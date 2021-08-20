@@ -1,11 +1,6 @@
-## My Project
+## ACK `.github`
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+`.github` stores the default community health files for all ACK repositories. It manages the Amazon contribution and security documentation, pull request and issue templates, and common workflows.
 
 ## Security
 
