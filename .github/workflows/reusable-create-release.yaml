@@ -1,15 +1,13 @@
 name: Create Release
 
 on:
-  push:
-    tags:
-      - "v*.*.*"
+  workflow_call: {}
 
 permissions:
   contents: write # For creating releases
 
 jobs:
-  build:
+  reusable_workflow_job:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
