@@ -1,0 +1,11 @@
+{
+    "name": "Reusable Github Release Workflow",
+    "description": "Creates a Github release for the given tag.",
+    "iconName": "ack",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "go.mod"
+    ]
+}
