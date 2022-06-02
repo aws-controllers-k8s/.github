@@ -18,5 +18,4 @@ A concise description of what you expected to happen.
 **Environment**
 
 * Kubernetes version
-* Using EKS (yes/no), if so version? 
 * AWS service targeted (S3, RDS, etc.)
